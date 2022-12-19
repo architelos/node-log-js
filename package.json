@@ -1,0 +1,27 @@
+{
+  "name": "@architelos/node-log-js",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": {
+    "import": "./src/esm/logger-js.js",
+    "require": "./src/cjs/logger-js.cjs"
+  },
+  "description": "Tiny logging module. Inspired by npm/debug.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/architelos/node-log-js.git"
+  },
+  "keywords": [
+    "logging",
+    "debug",
+    "log",
+    "debugger"
+  ],
+  "author": "architelos",
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/architelos/node-log-js/issues"
+  },
+  "homepage": "https://github.com/architelos/node-log-js#readme"
+}
